@@ -1,0 +1,2 @@
+com.labs.Fareweller=com.labs.InformalFarewelle
+com.labs.Welcomer=com.labs.PoshGreete

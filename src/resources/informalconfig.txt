@@ -1,0 +1,2 @@
+com.labs.Fareweller=com.labs.InformalFareweller
+com.labs.Welcomer=com.labs.InformalGreeter
